@@ -1,6 +1,5 @@
 (define-module libr.wiki
 			   (use srfi-1)
-			   (use util.list)
 			   (use rfc.http)
 			   (use sxml.ssax)
 			   (use sxml.sxpath)
